@@ -118,6 +118,9 @@
           "ibanLetterCode": ["????"],
           "ibanDigits": ["############"],
         }
+      },
+      "game": {
+        "character": "Ezio Auditore da Firenze"
       }
     }
   }
